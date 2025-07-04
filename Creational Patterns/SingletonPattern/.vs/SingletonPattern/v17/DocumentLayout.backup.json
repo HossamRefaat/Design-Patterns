@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\SingletonPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34258A-6F22-4164-BF54-04E77EB9383B}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\singletonpattern\\singletonpattern\\currancyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34258A-6F22-4164-BF54-04E77EB9383B}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\currancyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34258A-6F22-4164-BF54-04E77EB9383B}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\singletonpattern\\singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34258A-6F22-4164-BF54-04E77EB9383B}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D34258A-6F22-4164-BF54-04E77EB9383B}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\singletonpattern\\singletonpattern\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D34258A-6F22-4164-BF54-04E77EB9383B}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\SingletonPattern\\SingletonPattern\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\SingletonPattern\\SingletonPattern\\Program.cs*",
+              "RelativeToolTip": "SingletonPattern\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:36:27.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrancyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\SingletonPattern\\SingletonPattern\\CurrancyConverter.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\CurrancyConverter.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\SingletonPattern\\SingletonPattern\\CurrancyConverter.cs",
+              "RelativeToolTip": "SingletonPattern\\CurrancyConverter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:42:09.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\SingletonPattern\\SingletonPattern\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\ExchangeRate.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\SingletonPattern\\SingletonPattern\\ExchangeRate.cs",
+              "RelativeToolTip": "SingletonPattern\\ExchangeRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:40:34.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
