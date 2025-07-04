@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PayrollSystem.Controllers.PayrollCalculatorController",
+    "Method": "Calculate",
+    "RelativePath": "api/PayrollCalculator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "PayrollSystem.Core.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Decimal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
