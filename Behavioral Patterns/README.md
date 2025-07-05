@@ -22,14 +22,3 @@ They help define how objects interact and communicate with each other, making th
 | [Template Method](./TemplateMethodPattern)          | Defines the skeleton of an algorithm in a method, deferring some steps to subclasses. |
 | [Visitor](./VisitorPattern)          | Separates an algorithm from the object structure on which it operates. |
 
----
-
-## 🧠 When to Use Behavioral Patterns
-
-- You need to manage complex communication between multiple objects.
-- You want to assign responsibilities to objects dynamically at runtime.
-- You need to create flexible algorithms that can be easily modified or extended.
-- You want to reduce coupling between objects while maintaining their communication.
-- You need to implement undo/redo functionality or state management.
-- You want to create event-driven systems with loose coupling.
-- You need to implement different algorithms that can be swapped at runtime.
