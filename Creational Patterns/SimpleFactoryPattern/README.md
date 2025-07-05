@@ -6,7 +6,7 @@ The Simple Factory pattern is a **creational design pattern** that provides a ce
 
 ## What This Project Does
 
-This project demonstrates the **Simple Factory pattern** using the same customer discount system as the [Strategy Pattern](../Behavioral%20Patterns/StrategyPattern/README.md). The key difference is that instead of manually creating discount strategies, we use a **factory** to create them for us.
+This project demonstrates the **Simple Factory pattern** using the same customer discount system as the [Strategy Pattern](../../Behavioral%20Patterns/StrategyPattern/README.md). The key difference is that instead of manually creating discount strategies, we use a **factory** to create them for us.
 
 ## How the Simple Factory Pattern is Used Here
 
@@ -78,6 +78,6 @@ Use the Simple Factory pattern when:
 
 ## Full Project Explanation
 
-For a complete explanation of the customer discount system, business logic, and how the strategies work, see the **[Strategy Pattern README](../Behavioral%20Patterns/StrategyPattern/README.md)**.
+For a complete explanation of the customer discount system, business logic, and how the strategies work, see the **[Strategy Pattern README](../../Behavioral%20Patterns/StrategyPattern/README.md)**.
 
 This Simple Factory pattern makes the object creation process cleaner and more maintainable while keeping all the same business functionality! 
