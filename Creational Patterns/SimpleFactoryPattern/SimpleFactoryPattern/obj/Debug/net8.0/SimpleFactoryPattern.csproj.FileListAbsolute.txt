@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\net8.0\SimpleFactoryPattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\net8.0\SimpleFactoryPattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\net8.0\SimpleFactoryPattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\net8.0\SimpleFactoryPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\net8.0\SimpleFactoryPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\refint\SimpleFactoryPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\SimpleFactoryPattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\net8.0\ref\SimpleFactoryPattern.dll
