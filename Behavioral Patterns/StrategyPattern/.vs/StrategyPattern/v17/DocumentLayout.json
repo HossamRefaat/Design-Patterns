@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\discountstrategies\\goldcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\discountstrategies\\goldcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\discountstrategies\\icustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\discountstrategies\\icustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\discountstrategies\\silvercustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\discountstrategies\\silvercustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\strategypattern\\strategypattern\\core\\discountstrategies\\newcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D503EE-117F-4278-888F-10A918B69529}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\core\\discountstrategies\\newcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerCategory.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\CustomerCategory.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\CustomerCategory.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\CustomerCategory.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\CustomerCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:57:47.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\InvoiceManager.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\InvoiceManager.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\InvoiceManager.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\InvoiceManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:51:38.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:48:17.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\DiscountStrategies\\ICustomerDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:47:43.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SilverCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:47:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoldCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:46:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceLine.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\InvoiceLine.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\InvoiceLine.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\InvoiceLine.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\InvoiceLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:27:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\Invoice.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\Invoice.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\Invoice.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\Invoice.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:25:24.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\CustomerDataReader.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\CustomerDataReader.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\CustomerDataReader.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\CustomerDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:23:27.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\Customer.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Core\\Customer.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Core\\Customer.cs",
+              "RelativeToolTip": "StrategyPattern\\Core\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:22:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "StrategyPattern\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCoAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:21:38.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
