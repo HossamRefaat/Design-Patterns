@@ -19,12 +19,3 @@ They help organize and compose objects to form larger structures while keeping t
 | [Flyweight](./FlyweightPattern)          | Reduces the cost of creating and manipulating a large number of similar objects. |
 | [Proxy](./ProxyPattern)          | Provides a surrogate or placeholder for another object to control access to it. |
 
----
-
-## 🧠 When to Use Structural Patterns
-
-- You need to create relationships between objects that are independent of their implementation.
-- You want to add new functionality to existing classes without changing their structure.
-- You need to adapt incompatible interfaces to work together.
-- You want to control access to objects or add a layer of indirection.
-- You need to compose objects into larger structures while keeping them flexible.
