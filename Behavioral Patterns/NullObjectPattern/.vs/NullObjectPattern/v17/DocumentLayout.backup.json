@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\nullobjectpattern\\nullobjectpattern\\core\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|solutionrelative:nullobjectpattern\\core\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\nullobjectpattern\\nullobjectpattern\\core\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|solutionrelative:nullobjectpattern\\core\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\nullobjectpattern\\nullobjectpattern\\core\\customerdiscountstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|solutionrelative:nullobjectpattern\\core\\customerdiscountstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\nullobjectpattern\\nullobjectpattern\\core\\discountstrategies\\nulldiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|solutionrelative:nullobjectpattern\\core\\discountstrategies\\nulldiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\behavioral patterns\\nullobjectpattern\\nullobjectpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6181A6-FB61-4183-94E6-7A53A78783E4}|NullObjectPattern\\NullObjectPattern.csproj|solutionrelative:nullobjectpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCategory.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\CustomerCategory.cs",
+              "RelativeDocumentMoniker": "NullObjectPattern\\Core\\CustomerCategory.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\CustomerCategory.cs",
+              "RelativeToolTip": "NullObjectPattern\\Core\\CustomerCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:54:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NullDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "NullObjectPattern\\Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "RelativeToolTip": "NullObjectPattern\\Core\\DiscountStrategies\\NullDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:52:41.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\CustomerDataReader.cs",
+              "RelativeDocumentMoniker": "NullObjectPattern\\Core\\CustomerDataReader.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\CustomerDataReader.cs",
+              "RelativeToolTip": "NullObjectPattern\\Core\\CustomerDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:44:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDiscountStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\CustomerDiscountStrategyFactory.cs",
+              "RelativeDocumentMoniker": "NullObjectPattern\\Core\\CustomerDiscountStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Core\\CustomerDiscountStrategyFactory.cs",
+              "RelativeToolTip": "NullObjectPattern\\Core\\CustomerDiscountStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:44:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Program.cs",
+              "RelativeDocumentMoniker": "NullObjectPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Behavioral Patterns\\NullObjectPattern\\NullObjectPattern\\Program.cs",
+              "RelativeToolTip": "NullObjectPattern\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:43:02.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
