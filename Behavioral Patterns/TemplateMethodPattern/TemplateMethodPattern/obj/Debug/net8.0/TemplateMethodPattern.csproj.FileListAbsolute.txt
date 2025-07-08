@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\refint\TemplateMethodPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Behavioral Patterns\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\ref\TemplateMethodPattern.dll
