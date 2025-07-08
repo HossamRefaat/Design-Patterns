@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\shoppingcarts\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\shoppingcarts\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\itemdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\itemdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\shoppingcarts\\instoreshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\shoppingcarts\\instoreshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\shoppingcarts\\onlineshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\shoppingcarts\\onlineshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\discountstrategies\\silvercustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\discountstrategies\\silvercustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\payments\\visapaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\payments\\visapaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern\\core\\payments\\paypalpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B40063D-0C85-438C-9D79-A0C4E6B2B262}|FactoryMethodPattern\\FactoryMethodPattern.csproj|solutionrelative:factorymethodpattern\\core\\payments\\paypalpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130E2FA-472F-42C3-9416-CBCDD752E73C}|FactoryMethodPattern.Payments.Abstractions\\FactoryMethodPattern.Payments.Abstraction.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern.payments.abstractions\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F130E2FA-472F-42C3-9416-CBCDD752E73C}|FactoryMethodPattern.Payments.Abstractions\\FactoryMethodPattern.Payments.Abstraction.csproj|solutionrelative:factorymethodpattern.payments.abstractions\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130E2FA-472F-42C3-9416-CBCDD752E73C}|FactoryMethodPattern.Payments.Abstractions\\FactoryMethodPattern.Payments.Abstraction.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern.payments.abstractions\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F130E2FA-472F-42C3-9416-CBCDD752E73C}|FactoryMethodPattern.Payments.Abstractions\\FactoryMethodPattern.Payments.Abstraction.csproj|solutionrelative:factorymethodpattern.payments.abstractions\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130E2FA-472F-42C3-9416-CBCDD752E73C}|FactoryMethodPattern.Payments.Abstractions\\FactoryMethodPattern.Payments.Abstraction.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-pattern\\creational patterns\\factorymethodpattern\\factorymethodpattern.payments.abstractions\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F130E2FA-472F-42C3-9416-CBCDD752E73C}|FactoryMethodPattern.Payments.Abstractions\\FactoryMethodPattern.Payments.Abstraction.csproj|solutionrelative:factorymethodpattern.payments.abstractions\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Item.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\Item.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Item.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:04:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\InvoiceManager.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\InvoiceManager.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\InvoiceManager.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\InvoiceManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:02:31.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceLine.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\InvoiceLine.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\InvoiceLine.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\InvoiceLine.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\InvoiceLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:02:24.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InStoreShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\ShoppingCarts\\InStoreShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:59:24.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnlineShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\ShoppingCarts\\OnlineShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:59:20.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SilverCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:58:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ItemDataReader.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\ItemDataReader.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ItemDataReader.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\ItemDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:57:59.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisaPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Payments\\VisaPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\Payments\\VisaPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Payments\\VisaPaymentProcessor.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\Payments\\VisaPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:28:27.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PayPalPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Payments\\PayPalPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\Payments\\PayPalPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Payments\\PayPalPaymentProcessor.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\Payments\\PayPalPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:25:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Invoice.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\Invoice.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\Invoice.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:12:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ShoppingCarts\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Core\\ShoppingCarts\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Core\\ShoppingCarts\\ShoppingCart.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Core\\ShoppingCarts\\ShoppingCart.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:10:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern.Payments.Abstractions\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern.Payments.Abstractions\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern.Payments.Abstractions\\IPaymentMethod.cs",
+              "RelativeToolTip": "FactoryMethodPattern.Payments.Abstractions\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:07:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern.Payments.Abstractions\\Payment.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern.Payments.Abstractions\\Payment.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern.Payments.Abstractions\\Payment.cs",
+              "RelativeToolTip": "FactoryMethodPattern.Payments.Abstractions\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:05:34.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern.Payments.Abstractions\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern.Payments.Abstractions\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern.Payments.Abstractions\\PaymentProcessor.cs",
+              "RelativeToolTip": "FactoryMethodPattern.Payments.Abstractions\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:00:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMethodPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Pattern\\Creational Patterns\\FactoryMethodPattern\\FactoryMethodPattern\\Program.cs",
+              "RelativeToolTip": "FactoryMethodPattern\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:59:56.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

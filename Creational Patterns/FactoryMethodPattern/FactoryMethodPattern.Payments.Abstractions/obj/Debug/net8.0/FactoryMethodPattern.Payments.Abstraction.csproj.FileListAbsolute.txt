@@ -1,0 +1,12 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\bin\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\bin\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\bin\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\refint\FactoryMethodPattern.Payments.Abstraction.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\FactoryMethodPattern.Payments.Abstraction.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Pattern\Creational Patterns\FactoryMethodPattern\FactoryMethodPattern.Payments.Abstractions\obj\Debug\net8.0\ref\FactoryMethodPattern.Payments.Abstraction.dll
