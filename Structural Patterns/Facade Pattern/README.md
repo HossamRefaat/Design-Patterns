@@ -49,15 +49,6 @@ shoppingCart.AddItem(itemId, quantity, item.UnitPrice);
 - Error handling scattered throughout the main method
 - No centralized state management
 
-#### 4. **Unused Complexity**
-```csharp
-// Commented code showed alternative approach that wasn't being used
-//var customerDiscountStrategyFactory = new CustomerDiscountStrategyFactory();
-//ICustomerDiscountStrategy customerDiscountStrategy = customerDiscountStrategyFactory.CreateCustomerDiscountStrategy(customer.Category);
-//var invoiceManager = new InvoiceManager();
-//invoiceManager.SetDiscountStrategy(customerDiscountStrategy);
-```
-
 ## How We Solved It with the Facade Pattern
 
 ### Solution Architecture
@@ -98,8 +89,6 @@ public class EcommerceFacade
 
 #### 2. **Simplified Client Code**
 ```csharp
-// Before: 76 lines of complex coordination
-// After: Clean, simple method calls
 var ecommerceFacade = new EcommerceFacade();
 
 while (true)
@@ -126,7 +115,6 @@ while (true)
 
 | **Aspect** | **Before (Original)** | **After (With Facade)** |
 |------------|----------------------|-------------------------|
-| **Lines of Code** | 76 lines | 60 lines |
 | **Dependencies** | 6+ direct class dependencies | 1 facade dependency |
 | **Complexity** | High - mixed concerns | Low - single responsibility |
 | **Error Handling** | Scattered try-catch | Centralized in facade |
@@ -163,66 +151,6 @@ if (!ecommerceFacade.SelectCustomer(customerId))
 - Easy to integrate the commented `InvoiceManager` logic
 - Can add new features without changing client code
 - Ready for new cart types or payment methods
-
-## Implementation Details
-
-### What Each Facade Method Does
-
-#### `StartNewOrder()`
-- Resets order state (`_selectedCustomer`, `_currentShoppingCart`)
-- Loads fresh data from `CustomerDataReader` and `ItemDataReader`
-- Displays formatted customer and item lists
-- Sets `_isOrderActive = true`
-
-#### `SelectCustomer(int customerId)`
-- Validates order is active
-- Looks up customer by ID
-- Stores selected customer in `_selectedCustomer`
-- Provides user feedback
-
-#### `SelectShoppingCartType(string cartType)`
-- Validates customer is selected
-- Creates appropriate cart type (`OnlineShoppingCart` or `InStoreShoppingCart`)
-- Stores cart in `_currentShoppingCart`
-
-#### `AddItemToCart(int itemId, int quantity)`
-- Validates cart is available
-- Looks up item by ID
-- Validates quantity
-- Adds item to cart with proper pricing
-
-#### `CompleteOrder()`
-- Validates all required components are ready
-- Calls `shoppingCart.Checkout(selectedCustomer)`
-- Resets order state
-- Handles exceptions gracefully
-
-## How to Run
-
-1. **Build the project:**
-   ```bash
-   dotnet build
-   ```
-
-2. **Run the application:**
-   ```bash
-   dotnet run
-   ```
-
-3. **Follow the prompts:**
-   - Select a customer by ID
-   - Choose cart type (Online/InStore)
-   - Add items by ID and quantity
-   - Enter 0 to complete the order
-
-## Design Pattern Benefits Demonstrated
-
-✅ **Simplified Interface**: Complex subsystem hidden behind simple methods  
-✅ **Loose Coupling**: Client depends only on facade, not individual subsystems  
-✅ **Centralized Logic**: All coordination handled in one place  
-✅ **Better Maintainability**: Changes to subsystems don't affect client code  
-✅ **Consistent Error Handling**: Unified approach to validation and errors  
-✅ **State Management**: Facade manages order workflow state  
 
 ## Conclusion
 
