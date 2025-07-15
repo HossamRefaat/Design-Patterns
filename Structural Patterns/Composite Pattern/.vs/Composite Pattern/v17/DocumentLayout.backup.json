@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\composite pattern\\composite pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\composite pattern\\composite pattern\\core\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\core\\housing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\composite pattern\\composite pattern\\core\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\core\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\composite pattern\\composite pattern\\core\\istructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41AA9A-8C6B-458B-B9EA-016834D1B8FC}|Composite Pattern\\Composite Pattern.csproj|solutionrelative:composite pattern\\core\\istructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Housing.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Core\\Housing.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Core\\Housing.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Core\\Housing.cs",
+              "RelativeToolTip": "Composite Pattern\\Core\\Housing.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:24:17.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Core\\Room.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Core\\Room.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Core\\Room.cs",
+              "RelativeToolTip": "Composite Pattern\\Core\\Room.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:24:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStructure.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Core\\IStructure.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Core\\IStructure.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Core\\IStructure.cs",
+              "RelativeToolTip": "Composite Pattern\\Core\\IStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:24:16.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Composite Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\Composite Pattern\\Composite Pattern\\Program.cs*",
+              "RelativeToolTip": "Composite Pattern\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:15:15.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
