@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\core\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\core\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\core\\orderprocessorexceptionhandlingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\core\\orderprocessorexceptionhandlingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\core\\orderprocessorqueuingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\core\\orderprocessorqueuingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\core\\orderprocessorprofilingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\core\\orderprocessorprofilingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\core\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\core\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\decoratorpattern\\decoratorpattern\\core\\iorderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B09791-7F1A-46B3-A6D1-10C3DC06FA1E}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\core\\iorderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProcessorExceptionHandlingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessorExceptionHandlingDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Core\\OrderProcessorExceptionHandlingDecorator.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessorExceptionHandlingDecorator.cs",
+              "RelativeToolTip": "DecoratorPattern\\Core\\OrderProcessorExceptionHandlingDecorator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:17:36.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderProcessorQueuingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessorQueuingDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Core\\OrderProcessorQueuingDecorator.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessorQueuingDecorator.cs",
+              "RelativeToolTip": "DecoratorPattern\\Core\\OrderProcessorQueuingDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:13:45.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderProcessorProfilingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessorProfilingDecorator.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Core\\OrderProcessorProfilingDecorator.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessorProfilingDecorator.cs",
+              "RelativeToolTip": "DecoratorPattern\\Core\\OrderProcessorProfilingDecorator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:58:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Core\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderProcessor.cs",
+              "RelativeToolTip": "DecoratorPattern\\Core\\OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:39:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderLine.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Core\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\OrderLine.cs",
+              "RelativeToolTip": "DecoratorPattern\\Core\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:39:25.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\Order.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Core\\Order.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\Order.cs",
+              "RelativeToolTip": "DecoratorPattern\\Core\\Order.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:39:24.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\IOrderProcessor.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Core\\IOrderProcessor.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Core\\IOrderProcessor.cs",
+              "RelativeToolTip": "DecoratorPattern\\Core\\IOrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:39:24.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\DecoratorPattern\\DecoratorPattern\\Program.cs",
+              "RelativeToolTip": "DecoratorPattern\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:37:55.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
