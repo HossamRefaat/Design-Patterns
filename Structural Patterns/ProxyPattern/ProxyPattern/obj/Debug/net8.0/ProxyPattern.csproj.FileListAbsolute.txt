@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\refint\ProxyPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ref\ProxyPattern.dll

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\proxypattern\\proxypattern\\core\\proxyinternet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\core\\proxyinternet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\proxypattern\\proxypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\proxypattern\\proxypattern\\core\\realinternetconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\core\\realinternetconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\proxypattern\\proxypattern\\core\\internet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\core\\internet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\proxypattern\\proxypattern\\core\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20F1028-51E4-4C6E-895B-C9A195193902}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\core\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\Employee.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\Core\\Employee.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\Employee.cs",
+              "RelativeToolTip": "ProxyPattern\\Core\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:20:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealInternetConnection.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\RealInternetConnection.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\Core\\RealInternetConnection.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\RealInternetConnection.cs",
+              "RelativeToolTip": "ProxyPattern\\Core\\RealInternetConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:20:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProxyInternet.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\ProxyInternet.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\Core\\ProxyInternet.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\ProxyInternet.cs",
+              "RelativeToolTip": "ProxyPattern\\Core\\ProxyInternet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:20:40.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Internet.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\Internet.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\Core\\Internet.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Core\\Internet.cs",
+              "RelativeToolTip": "ProxyPattern\\Core\\Internet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:20:40.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\ProxyPattern\\ProxyPattern\\Program.cs",
+              "RelativeToolTip": "ProxyPattern\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:16:46.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
