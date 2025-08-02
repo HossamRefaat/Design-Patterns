@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\bin\Debug\net8.0\OnlineOrders.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\bin\Debug\net8.0\OnlineOrders.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\bin\Debug\net8.0\OnlineOrders.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\bin\Debug\net8.0\OnlineOrders.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\bin\Debug\net8.0\OnlineOrders.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\refint\OnlineOrders.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\OnlineOrders.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\StatePattern\StatePattern\obj\Debug\net8.0\ref\OnlineOrders.dll

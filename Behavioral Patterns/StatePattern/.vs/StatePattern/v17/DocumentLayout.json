@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\core\\states\\cancelledorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\core\\states\\cancelledorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\core\\states\\neworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\core\\states\\neworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\core\\states\\shippedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\core\\states\\shippedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\core\\states\\deliveredorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\core\\states\\deliveredorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\core\\states\\processingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\core\\states\\processingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\statepattern\\statepattern\\core\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0314DEF2-EF14-42AF-97BF-AADCC63FDDB5}|StatePattern\\OnlineOrders.csproj|solutionrelative:statepattern\\core\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CancelledOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\CancelledOrder.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Core\\States\\CancelledOrder.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\CancelledOrder.cs",
+              "RelativeToolTip": "StatePattern\\Core\\States\\CancelledOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:38:54.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveredOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\DeliveredOrder.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Core\\States\\DeliveredOrder.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\DeliveredOrder.cs",
+              "RelativeToolTip": "StatePattern\\Core\\States\\DeliveredOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:38:53.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessingOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\ProcessingOrder.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Core\\States\\ProcessingOrder.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\ProcessingOrder.cs",
+              "RelativeToolTip": "StatePattern\\Core\\States\\ProcessingOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:35:43.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShippedOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\ShippedOrder.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Core\\States\\ShippedOrder.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\ShippedOrder.cs",
+              "RelativeToolTip": "StatePattern\\Core\\States\\ShippedOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:35:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\NewOrder.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Core\\States\\NewOrder.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\States\\NewOrder.cs",
+              "RelativeToolTip": "StatePattern\\Core\\States\\NewOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:35:43.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\Order.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Core\\Order.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\Order.cs",
+              "RelativeToolTip": "StatePattern\\Core\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:35:43.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderState.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\IOrderState.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Core\\IOrderState.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Core\\IOrderState.cs",
+              "RelativeToolTip": "StatePattern\\Core\\IOrderState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:35:42.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Program.cs",
+              "RelativeDocumentMoniker": "StatePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\StatePattern\\StatePattern\\Program.cs",
+              "RelativeToolTip": "StatePattern\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:29:30.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
