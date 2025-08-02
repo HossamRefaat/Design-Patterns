@@ -197,16 +197,7 @@ Console.WriteLine("Status: " + order.GetStatus());  // "Delivered"
 3. **Easy Maintenance**: Adding new states (e.g., "Returned") doesn't affect existing states
 4. **Readable Code**: No complex conditional statements cluttering the Order class
 5. **Testability**: Each state can be tested independently
-
-## Real-World Examples
-
-- **Order Processing**: New → Processing → Shipped → Delivered
-- **Document Workflow**: Draft → Review → Approved → Published
-- **ATM Machine**: Idle → Card Inserted → PIN Entered → Transaction
-- **Media Player**: Stopped → Playing → Paused → Stopped
-- **Connection States**: Disconnected → Connecting → Connected → Disconnected
-- **Game Character**: Standing → Walking → Running → Jumping
-
+   
 ## When to Use State Pattern
 
 ✅ **Use When:**
@@ -221,13 +212,6 @@ Console.WriteLine("Status: " + order.GetStatus());  // "Delivered"
 - States don't affect object behavior significantly
 - You only have a few states with simple transitions
 - Performance is critical (state objects add overhead)
-
-## Alternative Approaches
-
-1. **Switch/If-Else Statements**: Simple but becomes complex with many states
-2. **Enum with Switch**: Better organization but still requires central logic
-3. **State Machine Libraries**: For very complex state machines
-4. **Finite State Machine (FSM)**: More formal mathematical approach
 
 ## Summary
 
