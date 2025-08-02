@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\workflow\\ceoapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\workflow\\ceoapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\workflow\\ctoapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\workflow\\ctoapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\workflow\\technicalmanagerapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\workflow\\technicalmanagerapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\workflow\\approvalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\workflow\\approvalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\workflow\\teamleaderapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\workflow\\teamleaderapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\workflow\\iapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\workflow\\iapprovalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\chainofresponsibilitypattern\\chainofresponsibility\\core\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2FDA3A-3623-4B7B-B7D8-AD6E8577A1BA}|ChainOfResponsibility\\ChainOfResponsibilityPattern.csproj|solutionrelative:chainofresponsibility\\core\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CEOApprovalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\CEOApprovalHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\Workflow\\CEOApprovalHandler.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\CEOApprovalHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\Workflow\\CEOApprovalHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:16:39.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CTOApprovalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\CTOApprovalHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\Workflow\\CTOApprovalHandler.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\CTOApprovalHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\Workflow\\CTOApprovalHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:16:38.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechnicalManagerApprovalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\TechnicalManagerApprovalHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\Workflow\\TechnicalManagerApprovalHandler.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\TechnicalManagerApprovalHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\Workflow\\TechnicalManagerApprovalHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:12:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamLeaderApprovalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\TeamLeaderApprovalHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\Workflow\\TeamLeaderApprovalHandler.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\TeamLeaderApprovalHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\Workflow\\TeamLeaderApprovalHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:08:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApprovalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\ApprovalHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\Workflow\\ApprovalHandler.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\ApprovalHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\Workflow\\ApprovalHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:04:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Program.cs*",
+              "RelativeToolTip": "ChainOfResponsibility\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:50:13.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApprovalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\IApprovalHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\Workflow\\IApprovalHandler.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Workflow\\IApprovalHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\Workflow\\IApprovalHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:04:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VacationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\VacationRequest.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\VacationRequest.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\VacationRequest.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\VacationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:54:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\JobTitle.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\JobTitle.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\JobTitle.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\JobTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:53:40.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Employee.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Core\\Employee.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ChainOfResponsibilityPattern\\ChainOfResponsibility\\Core\\Employee.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Core\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:52:12.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
