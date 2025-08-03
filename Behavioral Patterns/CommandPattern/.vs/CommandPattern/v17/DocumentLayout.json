@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\commands\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\commands\\addstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\addstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\commands\\macrostorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\macrostorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\commandpattern\\commandpattern\\core\\commands\\macro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627CB55-DBE9-4D0A-BCDA-A0790942A49D}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\commands\\macro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\ICommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:13:35.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Order.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Order.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Order.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:38:09.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\OrderLine.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\OrderLine.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:38:10.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Product.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Product.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Product.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:38:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Program.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Program.cs",
+              "RelativeToolTip": "CommandPattern\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T09:37:24.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\AddProductCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\AddProductCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:13:35.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStockCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\AddStockCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\AddStockCommand.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\AddStockCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\AddStockCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:13:36.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\CommandInvoker.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\CommandInvoker.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\CommandInvoker.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\CommandInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:13:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MacroStorage.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\MacroStorage.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\MacroStorage.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\MacroStorage.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\MacroStorage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:30:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Macro.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\Macro.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Core\\Commands\\Macro.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\CommandPattern\\CommandPattern\\Core\\Commands\\Macro.cs",
+              "RelativeToolTip": "CommandPattern\\Core\\Commands\\Macro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:30:00.518Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
