@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\mediatorpattern\\mediatorpattern\\core\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|solutionrelative:mediatorpattern\\core\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\mediatorpattern\\mediatorpattern\\core\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|solutionrelative:mediatorpattern\\core\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\mediatorpattern\\mediatorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|solutionrelative:mediatorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\mediatorpattern\\mediatorpattern\\core\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|solutionrelative:mediatorpattern\\core\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\mediatorpattern\\mediatorpattern\\core\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|solutionrelative:mediatorpattern\\core\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\mediatorpattern\\mediatorpattern\\core\\ichatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|solutionrelative:mediatorpattern\\core\\ichatmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\mediatorpattern\\mediatorpattern\\core\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57456341-E476-4AC0-B36E-1E70C19C6DE8}|MediatorPattern\\MediatorPattern.csproj|solutionrelative:mediatorpattern\\core\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHistory.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatHistory.cs",
+              "RelativeDocumentMoniker": "MediatorPattern\\Core\\ChatHistory.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatHistory.cs",
+              "RelativeToolTip": "MediatorPattern\\Core\\ChatHistory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:52:44.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "MediatorPattern\\Core\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatMessage.cs",
+              "RelativeToolTip": "MediatorPattern\\Core\\ChatMessage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:51:37.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatClient.cs",
+              "RelativeDocumentMoniker": "MediatorPattern\\Core\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatClient.cs",
+              "RelativeToolTip": "MediatorPattern\\Core\\ChatClient.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:21:26.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatServer.cs",
+              "RelativeDocumentMoniker": "MediatorPattern\\Core\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\ChatServer.cs",
+              "RelativeToolTip": "MediatorPattern\\Core\\ChatServer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAwwH0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:18:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\IClient.cs",
+              "RelativeDocumentMoniker": "MediatorPattern\\Core\\IClient.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\IClient.cs",
+              "RelativeToolTip": "MediatorPattern\\Core\\IClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:18:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChatMediator.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\IChatMediator.cs",
+              "RelativeDocumentMoniker": "MediatorPattern\\Core\\IChatMediator.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Core\\IChatMediator.cs",
+              "RelativeToolTip": "MediatorPattern\\Core\\IChatMediator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:17:46.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "MediatorPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\MediatorPattern\\MediatorPattern\\Program.cs",
+              "RelativeToolTip": "MediatorPattern\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:00:59.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
