@@ -43,27 +43,6 @@ The Memento Pattern is a behavioral design pattern that allows you to save and r
 - **Macro Recording**: Save command sequences for later replay
 - **Stock Management**: Automatic stock updates with commands
 
-## Project Structure
-
-```
-MementoPattern/
-├── Core/
-│   ├── Memento/
-│   │   ├── OrderMemento.cs      # Memento - stores order state
-│   │   └── Caretaker.cs         # Caretaker - manages mementos
-│   ├── Commands/
-│   │   ├── ICommand.cs          # Command interface
-│   │   ├── AddProductCommand.cs # Command to add products
-│   │   ├── AddStockCommand.cs   # Command to manage stock
-│   │   ├── CommandInvoker.cs    # Command execution manager
-│   │   ├── Macro.cs             # Command sequence container
-│   │   └── MacroStorage.cs      # Macro management
-│   ├── Order.cs                 # Originator - main business object
-│   ├── OrderLine.cs             # Order line item
-│   └── Product.cs               # Product entity
-└── Program.cs                   # Demo application
-```
-
 ## Key Classes
 
 ### OrderMemento
@@ -127,62 +106,6 @@ internal class Caretaker
 }
 ```
 
-## How to Use
-
-### Prerequisites
-- .NET 6.0 or later
-- Visual Studio 2022 or VS Code with C# extension
-
-### Running the Application
-
-1. **Navigate to the project directory:**
-   ```bash
-   cd "Behavioral Patterns/MementoPattern/MementoPattern"
-   ```
-
-2. **Build and run:**
-   ```bash
-   dotnet build
-   dotnet run
-   ```
-
-### Available Commands
-
-The application provides an interactive menu with the following options:
-
-1. **Add Laptop** - Adds a laptop to the order
-2. **Add Keyboard** - Adds a keyboard to the order  
-3. **Add Mouse** - Adds a mouse to the order
-4. **Save Macro** - Saves current command sequence as a macro
-5. **Replay Macro** - Replays a previously saved macro
-6. **Undo** - Undoes the last two commands
-7. **Redo** - Redoes the last two undone commands
-8. **Save Memento** - Saves current order state to memento
-9. **Restore Memento** - Restores order from a saved memento
-0. **Process** - Processes the current order
-
-### Example Workflow
-
-1. **Add some products** to your order (options 1-3)
-2. **Save a memento** (option 8) to capture the current state
-3. **Add more products** to modify the order
-4. **Restore from memento** (option 9) to return to the saved state
-5. **Use undo/redo** (options 6-7) for command-level reversals
-
-## Key Differences: Memento vs. Macro Recording
-
-### Memento Recording (State-Based)
-- **What it records**: Complete snapshots of object state
-- **How it works**: Captures entire internal state at a moment in time
-- **Restoration**: Overwrites current state with saved snapshot
-- **Use case**: "Save game" functionality, checkpoints
-
-### Macro Recording (Behavior-Based)  
-- **What it records**: Sequence of commands/operations
-- **How it works**: Records individual actions that were performed
-- **Restoration**: Re-executes the same operations
-- **Use case**: Automation, batch operations, templates
-
 ## Design Benefits
 
 ### Memento Pattern Benefits
@@ -190,13 +113,7 @@ The application provides an interactive menu with the following options:
 - **Simplicity**: Clean interface for save/restore operations  
 - **Flexibility**: Multiple snapshots can be maintained
 - **Undo Support**: Easy implementation of undo functionality
-
-### Combined with Command Pattern
-- **Granular Control**: Command-level undo vs. state-level restore
-- **Macro Support**: Record and replay command sequences
-- **Audit Trail**: Track both commands and state changes
-- **Flexibility**: Choose between command undo or state restoration
-
+- 
 ## When to Use Memento Pattern
 
 ✅ **Good for:**
@@ -205,49 +122,6 @@ The application provides an interactive menu with the following options:
 - Rolling back to previous states
 - Implementing save/load game states
 - Transaction rollback scenarios
-
-❌ **Avoid when:**
-- Object state is simple and doesn't change frequently
-- Memory usage is a critical concern (mementos consume memory)
-- The cost of creating snapshots is too high
-- Simple property-based undo is sufficient
-
-## Learning Outcomes
-
-After studying this implementation, you will understand:
-
-1. **Memento Pattern Structure**: How Originator, Memento, and Caretaker work together
-2. **State Management**: Different approaches to saving and restoring object state
-3. **Pattern Combination**: How Memento and Command patterns complement each other
-4. **Encapsulation**: How to maintain object privacy while enabling state access
-5. **Undo Mechanisms**: Different levels of undo (command vs. state-based)
-
-## Extending the Code
-
-Consider these enhancements:
-
-- **Named Snapshots**: Add descriptions to mementos
-- **Compression**: Compress large state objects
-- **Persistence**: Save mementos to disk
-- **Expiration**: Auto-cleanup old mementos
-- **Differential Snapshots**: Store only changes between states
-
-## Related Patterns
-
-- **Command Pattern**: Used for undo/redo at the operation level
-- **Observer Pattern**: Could notify about state changes
-- **Strategy Pattern**: Different memento storage strategies
-- **Prototype Pattern**: Alternative approach to object copying
-
-## Testing the Implementation
-
-The project includes comprehensive testing scenarios:
-
-1. **Basic Operations**: Add products and verify order state
-2. **Memento Save/Restore**: Test state snapshots and restoration
-3. **Command Undo/Redo**: Test command-level reversals
-4. **Macro Recording**: Test command sequence recording and replay
-5. **Edge Cases**: Test with empty orders, invalid indices, etc.
 
 ---
 
