@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\refint\ObserverPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\ObserverPattern\ObserverPattern\obj\Debug\net8.0\ref\ObserverPattern.dll

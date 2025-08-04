@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\observerpattern\\observerpattern\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\observerpattern\\observerpattern\\core\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\core\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\observerpattern\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\observerpattern\\observerpattern\\core\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\core\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\observerpattern\\observerpattern\\core\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\core\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\behavioral patterns\\observerpattern\\observerpattern\\core\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695DAC4D-9A88-450B-9466-923E104F590E}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\core\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\BlogPost.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Core\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\BlogPost.cs",
+              "RelativeToolTip": "ObserverPattern\\Core\\BlogPost.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:42:17.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\User.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Core\\User.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\User.cs",
+              "RelativeToolTip": "ObserverPattern\\Core\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:40:06.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\ISubject.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Core\\ISubject.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\ISubject.cs",
+              "RelativeToolTip": "ObserverPattern\\Core\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:38:55.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\IObserver.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Core\\IObserver.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\IObserver.cs",
+              "RelativeToolTip": "ObserverPattern\\Core\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:38:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\Blog.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Core\\Blog.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Core\\Blog.cs",
+              "RelativeToolTip": "ObserverPattern\\Core\\Blog.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:38:51.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Behavioral Patterns\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "ObserverPattern\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:16:47.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
