@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\refint\MementoPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Behavioral Patterns\MementoPattern\MementoPattern\obj\Debug\net8.0\ref\MementoPattern.dll
