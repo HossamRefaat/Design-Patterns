@@ -12,7 +12,7 @@ They abstract the instantiation process, making the system more **flexible**, **
 | Pattern            | Description |
 |--------------------|-------------|
 | [Singleton](./SingletonPattern)          | Ensures that a class has only one instance and provides a global point of access to it. |
-| [Factory Method](./FactoryMethod)     | Defines an interface for creating an object, but lets subclasses decide which class to instantiate. |
-| [Abstract Factory](./AbstractFactory) | Produces families of related or dependent objects without specifying their concrete classes. |
-| [Builder](./Builder)              | Separates the construction of a complex object from its representation. |
-| [Prototype](./Prototype)          | Creates new objects by copying an existing object (clone). |
+| [Factory Method](./FactoryMethodPattern)     | Defines an interface for creating an object, but lets subclasses decide which class to instantiate. |
+| [Abstract Factory](./AbstractFactoryPattern) | Produces families of related or dependent objects without specifying their concrete classes. |
+| [Builder](./BuilderPattern)              | Separates the construction of a complex object from its representation. |
+| [Prototype](./PrototypePattern)          | Creates new objects by copying an existing object (clone). |
