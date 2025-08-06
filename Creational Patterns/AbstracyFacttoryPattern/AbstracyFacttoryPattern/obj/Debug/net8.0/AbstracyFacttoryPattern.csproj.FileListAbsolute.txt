@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\bin\Debug\net8.0\AbstracyFacttoryPattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\bin\Debug\net8.0\AbstracyFacttoryPattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\bin\Debug\net8.0\AbstracyFacttoryPattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\bin\Debug\net8.0\AbstracyFacttoryPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\bin\Debug\net8.0\AbstracyFacttoryPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\refint\AbstracyFacttoryPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\AbstracyFacttoryPattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Creational Patterns\AbstracyFacttoryPattern\AbstracyFacttoryPattern\obj\Debug\net8.0\ref\AbstracyFacttoryPattern.dll
