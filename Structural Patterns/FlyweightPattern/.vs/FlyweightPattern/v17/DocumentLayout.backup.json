@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\flyweightpattern\\flyweightpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|solutionrelative:flyweightpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\flyweightpattern\\flyweightpattern\\core\\playerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|solutionrelative:flyweightpattern\\core\\playerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\flyweightpattern\\flyweightpattern\\core\\terrorist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|solutionrelative:flyweightpattern\\core\\terrorist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\flyweightpattern\\flyweightpattern\\core\\counterterrorist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|solutionrelative:flyweightpattern\\core\\counterterrorist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\flyweightpattern\\flyweightpattern\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A1A692-79EA-4FC2-B1FF-F7028E1BAADA}|FlyweightPattern\\FlyweightPattern.csproj|solutionrelative:flyweightpattern\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\PlayerFactory.cs",
+              "RelativeDocumentMoniker": "FlyweightPattern\\Core\\PlayerFactory.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\PlayerFactory.cs",
+              "RelativeToolTip": "FlyweightPattern\\Core\\PlayerFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:02:25.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CounterTerrorist.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\CounterTerrorist.cs",
+              "RelativeDocumentMoniker": "FlyweightPattern\\Core\\CounterTerrorist.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\CounterTerrorist.cs",
+              "RelativeToolTip": "FlyweightPattern\\Core\\CounterTerrorist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:00:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terrorist.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\Terrorist.cs",
+              "RelativeDocumentMoniker": "FlyweightPattern\\Core\\Terrorist.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\Terrorist.cs",
+              "RelativeToolTip": "FlyweightPattern\\Core\\Terrorist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:00:56.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\Player.cs",
+              "RelativeDocumentMoniker": "FlyweightPattern\\Core\\Player.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Core\\Player.cs",
+              "RelativeToolTip": "FlyweightPattern\\Core\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:00:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FlyweightPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\FlyweightPattern\\FlyweightPattern\\Program.cs*",
+              "RelativeToolTip": "FlyweightPattern\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:59:23.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

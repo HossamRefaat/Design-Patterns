@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\refint\FlyweightPattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\FlyweightPattern\FlyweightPattern\obj\Debug\net8.0\ref\FlyweightPattern.dll
