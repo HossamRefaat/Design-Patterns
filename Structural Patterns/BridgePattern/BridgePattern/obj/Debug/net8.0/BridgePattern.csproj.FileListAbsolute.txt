@@ -1,0 +1,15 @@
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\bin\Debug\net8.0\BridgePattern.exe
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\bin\Debug\net8.0\BridgePattern.deps.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\bin\Debug\net8.0\BridgePattern.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\bin\Debug\net8.0\BridgePattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\bin\Debug\net8.0\BridgePattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\refint\BridgePattern.dll
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.pdb
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\BridgePattern.genruntimeconfig.cache
+C:\Users\hossa\OneDrive\Desktop\Design-Patterns\Structural Patterns\BridgePattern\BridgePattern\obj\Debug\net8.0\ref\BridgePattern.dll

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\bridgepattern\\bridgepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|solutionrelative:bridgepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\bridgepattern\\bridgepattern\\core\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|solutionrelative:bridgepattern\\core\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\bridgepattern\\bridgepattern\\core\\icommonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|solutionrelative:bridgepattern\\core\\icommonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\bridgepattern\\bridgepattern\\core\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|solutionrelative:bridgepattern\\core\\windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\bridgepattern\\bridgepattern\\core\\mac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|solutionrelative:bridgepattern\\core\\mac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\bridgepattern\\bridgepattern\\core\\linux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|solutionrelative:bridgepattern\\core\\linux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|c:\\users\\hossa\\onedrive\\desktop\\design-patterns\\structural patterns\\bridgepattern\\bridgepattern\\core\\ioperatingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4ADD5A-2299-4D9D-A516-CB7484F3DAAE}|BridgePattern\\BridgePattern.csproj|solutionrelative:bridgepattern\\core\\ioperatingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Button.cs",
+              "RelativeDocumentMoniker": "BridgePattern\\Core\\Button.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Button.cs",
+              "RelativeToolTip": "BridgePattern\\Core\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:36:29.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mac.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Mac.cs",
+              "RelativeDocumentMoniker": "BridgePattern\\Core\\Mac.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Mac.cs",
+              "RelativeToolTip": "BridgePattern\\Core\\Mac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:36:29.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Linux.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Linux.cs",
+              "RelativeDocumentMoniker": "BridgePattern\\Core\\Linux.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Linux.cs",
+              "RelativeToolTip": "BridgePattern\\Core\\Linux.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:36:29.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Windows.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Windows.cs",
+              "RelativeDocumentMoniker": "BridgePattern\\Core\\Windows.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\Windows.cs",
+              "RelativeToolTip": "BridgePattern\\Core\\Windows.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:36:29.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommonUI.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\ICommonUI.cs",
+              "RelativeDocumentMoniker": "BridgePattern\\Core\\ICommonUI.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\ICommonUI.cs",
+              "RelativeToolTip": "BridgePattern\\Core\\ICommonUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:36:28.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOperatingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\IOperatingSystem.cs",
+              "RelativeDocumentMoniker": "BridgePattern\\Core\\IOperatingSystem.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Core\\IOperatingSystem.cs",
+              "RelativeToolTip": "BridgePattern\\Core\\IOperatingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:36:28.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Program.cs",
+              "RelativeDocumentMoniker": "BridgePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\Design-Patterns\\Structural Patterns\\BridgePattern\\BridgePattern\\Program.cs*",
+              "RelativeToolTip": "BridgePattern\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:34:04.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
