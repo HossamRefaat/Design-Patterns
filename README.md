@@ -16,15 +16,15 @@ They are not finished designs but templates that can be used to solve particular
 
 Design patterns are generally categorized into **three main types**:
 
-### 1. 🛠️ Creational Patterns
+### 1. 🛠️ [Creational Patterns](./Creational%20Patterns)
 Focus on **object creation mechanisms**, aiming to create objects in a manner suitable to the situation.
 
 ---
 
-### 2. 🧱 Structural Patterns
+### 2. 🧱 [Structural Patterns](./Structural%20Patterns)
 Deal with **object composition** — how classes and objects are combined to form larger structures.
 
 ---
 
-### 3. 🤝 [Behavioral Patterns](./Behavioral Patterns)
+### 3. 🤝 [Behavioral Patterns](./Behavioral%20Patterns)
 Concerned with **communication between objects** and the delegation of responsibilities.
