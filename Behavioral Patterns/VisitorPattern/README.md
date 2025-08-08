@@ -194,5 +194,5 @@ foreach (var shape in shapes)
     shape.Accept(areaVisitor);  // Double dispatch determines correct Visit method
 }
 ---
-
+```
 *This implementation demonstrates how the Visitor pattern provides a clean way to separate operations from object structures, enabling extensible and maintainable code while preserving type safety through double dispatch.*
