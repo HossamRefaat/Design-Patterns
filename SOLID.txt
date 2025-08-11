@@ -1,0 +1,13 @@
+S – Single Responsibility → One class, one job.
+
+O – Open/Closed → Open to extend, closed to change.
+
+L – Liskov Substitution → Subtypes must fit in without breaking things.
+
+I – Interface Segregation → No one should implement what they don’t use.
+
+D – Dependency Inversion → Depend on abstractions, not details.
+-----------------------------------------------------------------------------------------------------------------------------
+Composing object principle -> Build complex functionality by combining simpler objects instead of relying solely on inheritance.
+
+
